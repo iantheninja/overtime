@@ -19,6 +19,12 @@ Employees can log their overtime hours and make requests for overtime work. Impl
 - Email summary to managers for approval
 - No overtime needs to be documented
 
+## Tech Stack
+- RoR V6
+- Ruby 2.7.1
+- Capybara
+- Rspec
+
 ## UI 
 - Bootstrap
 
