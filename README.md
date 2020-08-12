@@ -1,24 +1,32 @@
-# README
+# Overtime-app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Employees can log their overtime hours and make requests for overtime work. Implemented in Ruby on Rails.
 
-Things you may want to cover:
+## Installation
 
-* Ruby version
+- clone project
+- `cd overtime`
+- `bundle install`
+- `rails db:migrate`
+- `rails server`
+- view the app on port 3000
 
-* System dependencies
+## Features
 
-* Configuration
+- Approval workflow
+- SMS sending
+- Administrator dashboard
+- Email summary to managers for approval
+- No overtime needs to be documented
 
-* Database creation
+## UI 
+- Bootstrap
 
-* Database initialization
 
-* How to run the test suite
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-* Services (job queues, cache servers, search engines, etc.)
+Please make sure to update tests as appropriate.
 
-* Deployment instructions
-
-* ...
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
